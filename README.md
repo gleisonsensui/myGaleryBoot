@@ -15,7 +15,13 @@ Foto de Olenka Sergienko no Pexels
 Foto de Rodolfo Clix no Pexels
 Foto de Junior Teixeira no Pexels
 Foto de Marta Branco no Pexels
-
+Foto de Steve Johnson no Pexels
+Foto de Math no Pexels
+Foto de MockupEditor.com no Pexels
+Foto de Miguel Á. Padriñán no Pexels
+Foto de Lukas no Pexels
+Foto de Yurii Hlei no Pexels
+Foto de Markus Spiske no Pexels
 
 
 # README 101
